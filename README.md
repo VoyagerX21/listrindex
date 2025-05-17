@@ -4,7 +4,7 @@ A lightweight Python utility that allows you to find the **last index** of an el
 
 ---
 
-## 📌 Description
+##  Description
 
 In Python, `list.index(x)` returns the **first index** of `x` in a list.  
 The `listrindex` class provides the method `rindex(list, object)` that returns the **last index** where the object appears.
@@ -13,7 +13,7 @@ This is especially useful when working with large datasets or when you want to f
 
 ---
 
-## ✅ Features
+##  Features
 
 - Returns the **last index** of a given value in a list.
 - Works with integers, strings, or any data type.
@@ -21,7 +21,7 @@ This is especially useful when working with large datasets or when you want to f
 
 ---
 
-## 🧪 Usage
+##  Usage
 
 ```python
 from listrindex import listrindex
